@@ -131,13 +131,13 @@ a{
     text-decoration: none;
 }
 
-button{
+/* button{
     font-family: var(--body-font);
     font-weight: var(--font-medium);
     border: none;
     outline: none;
     text-decoration: none;
-}
+} */
 
 img{
     max-width: 100%;
